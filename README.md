@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Salesforce,Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HaroonRiasat1](https://github.com/HaroonRiasat1)
+- 👨‍💻 All of my personal projects are available at [https://github.com/HaroonRiasat1](https://github.com/HaroonRiasat1)
 
 - 📝 I regularly write articles on [https://medium.com/@haroonriasatali](https://medium.com/@haroonriasatali)
 
