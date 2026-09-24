@@ -6,6 +6,8 @@ Full-stack engineer with 4.5+ years designing, building, and deploying productio
 
 **Contact:** [haroonriasatali@gmail.com](mailto:haroonriasatali@gmail.com) · [LinkedIn](https://linkedin.com/in/haroon-riasat-82659b1a7)
 
+> Most of my recent work has been on NDA-covered client and employer projects, so public activity here is lighter than my actual output — see [Experience](#experience) below for what I've shipped professionally.
+
 ## Experience
 
 - **Software Engineer, [Amplon.io](https://amplon.io)** (Turku, Finland) — *Sep 2024–Present*
