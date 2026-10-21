@@ -25,6 +25,10 @@ Full-stack engineer with 4.5+ years designing, building, and deploying productio
 - **Council Tap** — AI court-hearing transcription tool turning audio into structured, lawyer-ready notes (MERN, Claude, Python, Deepgram, AWS)
 - **SCRUB** — Custom Salesforce sales-management extension (React, TypeScript, Express, PostgreSQL, OAuth)
 
+## Fun side projects
+
+- **[wild-frequencies](https://github.com/HaroonRiasat1/wild-frequencies)** — A live animal rock concert in the browser: a 7-piece animal band with lights, fog, an LED wall, a crowd you can join, and backing-singer flamingos. Every song is generated live, upload your own track and the band learns its beats and choruses, or host a party so friends join from their phones in sync. React, TypeScript, Tone.js, Canvas 2D, WebRTC. [Live demo](https://wild-frequencies.vercel.app)
+
 ## Personal projects
 
 - **[event-map-scraper](https://github.com/HaroonRiasat1/event-map-scraper)** — Search any city and scrape the map for nearby venues, festivals, and live events. React + Leaflet + OpenStreetMap, no API key required. [Live demo](https://event-map-scraper.vercel.app)
