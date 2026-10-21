@@ -6,6 +6,10 @@ Full-stack engineer with 4.5+ years designing, building, and deploying productio
 
 **Contact:** [haroonriasatali@gmail.com](mailto:haroonriasatali@gmail.com) · [LinkedIn](https://linkedin.com/in/haroon-riasat-82659b1a7)
 
+[![Chat with my resume](https://img.shields.io/badge/Chat_with_my_resume-Ask_my_AI_assistant-6366f1?style=for-the-badge)](https://resume-chatbot-chi.vercel.app)
+
+Have a question about my experience, projects, or skills? [Ask my AI resume assistant](https://resume-chatbot-chi.vercel.app). It answers only from this profile and says when it doesn't know.
+
 > Most of my recent work has been on NDA-covered client and employer projects, so public activity here is lighter than my actual output — see [Experience](#experience) below for what I've shipped professionally.
 > <img width="1030" height="256" alt="image" src="https://github.com/user-attachments/assets/2a59f56b-2e24-49c9-b460-9cea286af35e" />
 
@@ -31,6 +35,7 @@ Full-stack engineer with 4.5+ years designing, building, and deploying productio
 
 ## Personal projects
 
+- **[resume-chatbot](https://github.com/HaroonRiasat1/resume-chatbot)** — Chat with my resume: a RAG assistant grounded only in this profile. Hybrid semantic + keyword retrieval over Upstash Vector, free open-source LLMs via OpenRouter, answers that cite their resume sections, and guards that say "I don't know" instead of guessing. TypeScript, Vite, Vercel Functions. [Live demo](https://resume-chatbot-chi.vercel.app)
 - **[event-map-scraper](https://github.com/HaroonRiasat1/event-map-scraper)** — Search any city and scrape the map for nearby venues, festivals, and live events. React + Leaflet + OpenStreetMap, no API key required. [Live demo](https://event-map-scraper.vercel.app)
 - **[tripstitch](https://github.com/HaroonRiasat1/tripstitch)** — Multi-city trip planner: routes, hostels, sights, metro, and budget in one place. [Live demo](https://tripstitch-five.vercel.app)
 - **[airplane-runner](https://github.com/HaroonRiasat1/airplane-runner)** — 3D multiplayer endless runner playable over a local network with no internet access; players join by scanning a QR code. Node.js, Express, Socket.io, Three.js.
