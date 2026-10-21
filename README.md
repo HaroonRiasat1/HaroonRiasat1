@@ -7,6 +7,8 @@ Full-stack engineer with 4.5+ years designing, building, and deploying productio
 **Contact:** [haroonriasatali@gmail.com](mailto:haroonriasatali@gmail.com) · [LinkedIn](https://linkedin.com/in/haroon-riasat-82659b1a7)
 
 > Most of my recent work has been on NDA-covered client and employer projects, so public activity here is lighter than my actual output — see [Experience](#experience) below for what I've shipped professionally.
+> <img width="1030" height="256" alt="image" src="https://github.com/user-attachments/assets/2a59f56b-2e24-49c9-b460-9cea286af35e" />
+
 
 ## Experience
 
