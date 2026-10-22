@@ -57,4 +57,4 @@ Have a question about my experience, projects, or skills? [Ask my AI resume assi
 
 - M.Sc. Information Technology (Computer Engineering), Åbo Akademi University, Turku, Finland — *Jun 2026*
 - B.Sc. Computer Science, FAST-NUCES, Islamabad, Pakistan — *Jun 2023*
-- AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner (Jun 2023 – Jun 2026)
