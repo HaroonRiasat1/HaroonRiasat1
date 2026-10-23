@@ -25,8 +25,8 @@ Have a question about my experience, projects, or skills? [Ask my AI resume assi
 
 ## Selected work projects
 
-- **Subqc AI** — AI-powered CRM forms & reporting platform automating inspections and report generation (MERN, OpenAI, embeddings, AWS)
-- **Council Tap** — AI court-hearing transcription tool turning audio into structured, lawyer-ready notes (MERN, Claude, Python, Deepgram, AWS)
+- **Field Inspection AI** — AI-powered CRM forms & reporting platform automating inspections and report generation (MERN, OpenAI, embeddings, AWS)
+- **Legal Transcription AI** — AI court-hearing transcription tool turning audio into structured, lawyer-ready notes (MERN, Claude, Python, Deepgram, AWS)
 - **SCRUB** — Custom Salesforce sales-management extension (React, TypeScript, Express, PostgreSQL, OAuth)
 
 ## Fun side projects
