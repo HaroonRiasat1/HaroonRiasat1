@@ -4,9 +4,9 @@ Full-Stack Software Engineer | AWS Cloud & AI Development — Turku, Finland
 
 Full-stack engineer with 4.5+ years designing, building, and deploying production web, mobile, and AI-powered applications end to end. Hands-on with AWS (EC2, S3, Amplify, Bedrock, SageMaker) and LLM/RAG systems (OpenAI, Claude, Gemini, LangChain, LlamaIndex, Pinecone, pgvector, Chroma).
 
-**Contact:** [haroonriasatali@gmail.com](mailto:haroonriasatali@gmail.com) · [LinkedIn](https://linkedin.com/in/haroon-riasat-82659b1a7)
+**Portfolio:** [haroonriasat.com](https://haroonriasat.com) · **Contact:** [haroonriasatali@gmail.com](mailto:haroonriasatali@gmail.com) · [LinkedIn](https://linkedin.com/in/haroon-riasat-82659b1a7)
 
-[![Chat with my resume](https://img.shields.io/badge/Chat_with_my_resume-Ask_my_AI_assistant-6366f1?style=for-the-badge)](https://ask.haroonriasat.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haroonriasat.com-090B10?style=for-the-badge)](https://haroonriasat.com) [![Chat with my resume](https://img.shields.io/badge/Chat_with_my_resume-Ask_my_AI_assistant-6366f1?style=for-the-badge)](https://ask.haroonriasat.com)
 
 Have a question about my experience, projects, or skills? [Ask my AI resume assistant](https://ask.haroonriasat.com). It answers only from this profile and says when it doesn't know.
 
