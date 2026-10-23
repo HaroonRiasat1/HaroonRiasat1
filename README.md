@@ -11,7 +11,10 @@ Full-stack engineer with 4.5+ years designing, building, and deploying productio
 Have a question about my experience, projects, or skills? [Ask my AI resume assistant](https://ask.haroonriasat.com). It answers only from this profile and says when it doesn't know.
 
 > Most of my recent work has been on NDA-covered client and employer projects, so public activity here is lighter than my actual output — see [Experience](#experience) below for what I've shipped professionally.
-> <img width="1030" height="256" alt="image" src="https://github.com/user-attachments/assets/2a59f56b-2e24-49c9-b460-9cea286af35e" />
+>
+> **My commit activity at Amplon:** 538 contributions in the last year on my Amplon work GitHub account.
+>
+> <img width="1030" height="256" alt="GitHub contribution graph from my Amplon work account: 538 contributions in the last year" src="https://github.com/user-attachments/assets/2a59f56b-2e24-49c9-b460-9cea286af35e" />
 
 
 ## Experience
