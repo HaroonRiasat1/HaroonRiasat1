@@ -35,6 +35,7 @@ Have a question about my experience, projects, or skills? [Ask my AI resume assi
 
 ## Fun side projects
 
+- **[Field-Service Navigator](https://github.com/HaroonRiasat1/since-ai-valmet)** — Since AI Hackathon 2026 (team of four, 72 hours) for Valmet's Industrial Metaverse challenge: turns a 3D Gaussian-splat scan of a plant into a digital twin you can walk through and talk to, with object extraction (Grounding DINO + SAM 2), IFC/BIM models, route planning and a grounded AI agent. I built the first prototype: splat navigation, vision-model asset detection and the copilot. (Python, three.js, Gaussian splats, LLM agents)
 - **[wild-frequencies](https://github.com/HaroonRiasat1/wild-frequencies)** — A live animal rock concert in the browser: a 7-piece animal band with lights, fog, an LED wall, a crowd you can join, and backing-singer flamingos. Every song is generated live, upload your own track and the band learns its beats and choruses, or host a party so friends join from their phones in sync. React, TypeScript, Tone.js, Canvas 2D, WebRTC. [Live demo](https://wild-frequencies.vercel.app)
 
 ## Personal projects
