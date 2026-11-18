@@ -14,7 +14,8 @@ Have a question about my experience, projects, or skills? [Ask my AI resume assi
 >
 > **My commit activity at Amplon:** 538 contributions in the last year on my Amplon work GitHub account.
 >
-> <img width="1030" height="256" alt="GitHub contribution graph from my Amplon work account: 538 contributions in the last year" src="https://github.com/user-attachments/assets/2a59f56b-2e24-49c9-b460-9cea286af35e" />
+> <img width="979" height="251" alt="image" src="https://github.com/user-attachments/assets/e79c68c5-0720-46d7-8886-237ed718fee5" />
+
 
 
 ## Experience
